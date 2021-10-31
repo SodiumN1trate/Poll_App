@@ -1,0 +1,1 @@
+alert("For voting or create vote, you need to accept that we can use your ip address.")
